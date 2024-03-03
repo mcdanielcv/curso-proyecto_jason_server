@@ -1,0 +1,14 @@
+{
+  "name": "project_jason_server",
+  "version": "0.0.1",
+  "description": "Jason server",
+  "main": "app.js",
+  "scripts": {
+    "start":"json-server --watch db.json"
+  },
+  "author": "Mario C",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

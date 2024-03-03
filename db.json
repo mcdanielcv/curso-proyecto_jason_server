@@ -1,0 +1,48 @@
+{
+    "profesores": [
+        {
+            "nombre": "Mario",
+            "apellido": "Castellanos",
+            "materias": [
+                {
+                    "nombre": "Node"
+                },
+                {
+                    "nombre": "React"
+                },
+                {
+                    "nombre": "Javascript"
+                }
+            ]
+        }
+    ],
+    "alumnos": [
+        {
+            "nombre": "Maria",
+            "apellido": "Rodriguez",
+            "promedio": 8.2
+        },
+        {
+            "nombre": "Alfonsina",
+            "apellido": "Stori",
+            "promedio": 10
+        }
+    ],
+    "cursos": [
+        {
+            "nombre": "NodeJs",
+            "duracion": 7,
+            "dificultad": "intermedia"
+        },
+        {
+            "nombre": "React Cero",
+            "duracion": 8,
+            "dificultad": "intermedia"
+        },
+        {
+            "nombre": "Angular 17",
+            "duracion": 8,
+            "dificultad": "alta"
+        }
+    ]
+}
